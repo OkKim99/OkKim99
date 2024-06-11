@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 개발자 김병옥입니다! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 성장하는 것을 꾸준히 고민하는 개발자 입니다. 공부한 내용을 블로그에 기록하고 있으며 한번 방문해 주시면 감사하겠습니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 성장하는 것을 꾸준히 고민하는 개발자 입니다. 공부한 내용을 블로그에 기록하고 있으니 한번 방문해 주시면 감사하겠습니다! </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
