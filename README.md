@@ -20,8 +20,15 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=OkKim99&custom_title=OkKim99's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkKim99&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+        🏅 Stats 
+    </h2> 
+        <div>
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=OkKim99&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ki9678" width="42%" height="100%"/>
+</div>
+<div>
+
+</div>
     </div>
     
